@@ -1,0 +1,20 @@
+ログインしなくても見ることができるページ
+index.php - (詳細)index_detail.php
+
+新規登録
+user_first_register.php - user_insert.php
+
+ログイン
+login.php - login_act.php
+
+adminの見るページ
+book_select.php -book_detail.php - book_update.php
+                                 - book_delete.php
+user_register_php - user_insert.php - user_view.php
+                                    - user_delete.php
+
+一般userの見るページ
+book_user_select.php - book_user_detail.php - book_update.php
+                                            - book_delete.php
+
+
